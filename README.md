@@ -1,2 +1,13 @@
-# yalico
-Evaluación Oscar Yalico
+# Evaluación Oscar Yalico
+
+Siga las instrucciones del archivo "Ejercicio Frontend v2.pdf".
+
+Al finalizar suba todos los cambios
+
+Documentación de la evaluación:
+
+```<Coloque aquí la documentación solicitada>```
+
+
+
+
